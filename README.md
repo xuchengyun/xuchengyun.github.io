@@ -1,6 +1,6 @@
 # Chengyxu Dev Blog
 
-My personal blog <https://chengyxu.com>
+My personal blog <https://blog.chengyxu.com>
 
 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
 
